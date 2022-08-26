@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <rect id="magic_wand" x="0" y="0" width="32" height="32" style="fill:none;"/>
-    <clipPath id="_clip1">
-        <rect x="0" y="0" width="32" height="32"/>
-    </clipPath>
-    <g clip-path="url(#_clip1)">
-        <g id="outline">
-            <path d="M2,28l2,2l11,-11c0,0 5.818,-6.545 7.531,-8.472c0.263,-0.297 0.25,-0.747 -0.03,-1.027c-0.001,-0.001 -0.001,-0.001 -0.002,-0.002c-0.28,-0.28 -0.73,-0.293 -1.027,-0.03c-1.927,1.713 -8.472,7.531 -8.472,7.531l-11,11Z" style="fill:#715845;stroke:#000;stroke-width:4px;"/>
-            <path d="M23,16l2,-5l5,-2l-5,-2l-2,-5l-2,5l-5,2l5,2l2,5Z" style="fill:#fdef24;stroke:#000;stroke-width:4px;"/>
-        </g>
-        <g id="emoji">
-            <path d="M23,16l2,-5l5,-2l-5,-2l-2,-5l-2,5l-5,2l5,2l2,5Z" style="fill:#fdef24;"/>
-            <path d="M2,28l2,2l11,-11c0,0 5.818,-6.545 7.531,-8.472c0.263,-0.297 0.25,-0.747 -0.03,-1.027c-0.001,-0.001 -0.001,-0.001 -0.002,-0.002c-0.28,-0.28 -0.73,-0.293 -1.027,-0.03c-1.927,1.713 -8.472,7.531 -8.472,7.531l-11,11Z" style="fill:#715845;"/>
-        </g>
-    </g>
-</svg>
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><clipPath id="a"><path clip-rule="evenodd" d="m0 0h32v32h-32z"/></clipPath><metadata/><path d="m0 0h32v32h-32z" fill="none"/><g clip-path="url(#a)"><path d="m2 28 2 2 11-11s5.818-6.545 7.531-8.472c.263-.297.25-.747-.03-1.027-.001-.001-.001-.001-.002-.002-.28-.28-.73-.293-1.027-.03-1.927 1.713-8.472 7.531-8.472 7.531l-11 11z" fill="#715845" stroke="#000" stroke-width="4"/><path d="m23 16 2-5 5-2-5-2-2-5-2 5-5 2 5 2z" fill="#fdef24" stroke="#000" stroke-width="4"/><path d="m23 16 2-5 5-2-5-2-2-5-2 5-5 2 5 2z" fill="#fdef24"/><path d="m2 28 2 2 11-11s5.818-6.545 7.531-8.472c.263-.297.25-.747-.03-1.027-.001-.001-.001-.001-.002-.002-.28-.28-.73-.293-1.027-.03-1.927 1.713-8.472 7.531-8.472 7.531l-11 11z" fill="#715845"/></g></svg>
