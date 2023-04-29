@@ -23,7 +23,7 @@ Everything in the `/emojis/input/ferris/` was taken from the download on the Fer
 ### Twemoji
 As made by Twitter, _[Twemoji](https://twemoji.twitter.com)_ ([GitHub](https://github.com/twitter/twemoji), [mirror](https://notabug.org/DynTylluanStars/twemoji)) are 3200 plus emojis that are free to use under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0). Below is a full list of all of the emojis that have been taken from this project:
 
-**anchor.svg**, **uk.svg**, **england.svg**, **wales.svg**, **scotland.svg**, **eu.svg**, **isleofman.svg**, **russia.svg**, **un.svg**, **venezuela.svg**, and **usa.svg**.
+**anchor.svg**, **uk.svg**, **england.svg**, **wales.svg**, **scotland.svg**, **eu.svg**, **isleofman.svg**, **russia.svg**, **un.svg**, **venezuela.svg**, **pick.svg**, **bee.svg** and **usa.svg**.
 
 **no_war.svg** was an edit of **russia.svg** by Cass Python and is a representation of the [No War](https://en.wikipedia.org/wiki/White-blue-white_flag) flag. **antarctic.svg** and **antarctic.png** was also made by Cass, as based on the [True South Antarctic Flag](https://commons.wikimedia.org/wiki/File:True_South_Antarctic_Flag.svg).
 
