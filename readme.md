@@ -1,6 +1,6 @@
 # Mutant Standard's Cass Version
 
-On [my website](https://github.com/DynTylluan/owly.fans), the primary set of emojis that I use are ones made by [Mutant Standard](https://mutant.tech) - I like them for the most part, I just wish they would follow Unicode, but they are still good for the most part. The emojis feature human skin colors, [such as this one](https://github.com/mutantstandard/build/blob/master/inhttps://notabug.org/DynTylluanstars/twemojiput/expressions/hands/hmn/wave%20%5Bhmn%5D.svg), but none of the emojis matched _my_ exact skin tone, so as the original project is open-source, I made my own. _Oh my!_
+On [my website](https://github.com/DynTylluan/owly.fans), the primary set of emojis that I use are ones made by [Mutant Standard](https://mutant.tech) - I like them for the most part, I just wish they would follow Unicode, but they are still good for what they are. The emojis feature human skin colors, [such as this one](https://github.com/mutantstandard/build/blob/master/inhttps://notabug.org/DynTylluanstars/twemojiput/expressions/hands/hmn/wave%20%5Bhmn%5D.svg), but none of the emojis matched _my_ exact skin tone, so as the original project is open-source, I made my own. _Oh my!_
 
 I also made other edits, mostly to the colors used on some emojis to better fit my own website.
 
@@ -8,7 +8,7 @@ There's nothing much to add to this, feel free to use these emojis under the sam
 
 ## Non-Mutant Standard Emojies
 
-There are a few emojis in this git that were not made by Mutant Standard. *Please review the licenses for each of the non-Mutant Standard emojis, as it might not be the same.
+There are a few emojis in this git that were not made by Mutant Standard. *Please review the licenses for each of the non-Mutant Standard emojis, as they might not be the same.
 
 The non-Mutant Standard emojis are:
 
