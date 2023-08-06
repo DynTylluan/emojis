@@ -74,4 +74,7 @@ The original and the edits are under a [CC BY-SA 4.0 license](https://creativeco
 ### Blahaj
 All of the [Blahaj SVGs were made by Heatherhorns](https://heatherhorns.com/emoji) and are [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0).
 
+### RSS
+The `rss.svg` icon was found [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Feed-icon.svg)
+
 > Cass Python of [OwlyFans](https://owly.fans)
